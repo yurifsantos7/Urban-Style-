@@ -1,0 +1,30 @@
+
+
+header {
+    background-color: black;
+    color: white;
+    
+    padding: 20px;
+}
+
+
+
+
+.banner {
+    background-color: gray;
+    text-align: center;
+    
+}
+
+
+.banner button {
+    background-color: black;
+    color: white;
+    padding: 40px 80px;
+    margin-top: 15px;
+    border: none; 
+    cursor: pointer; 
+}
+
+
+

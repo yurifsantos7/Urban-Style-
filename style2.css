@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    background-color: black;
+    color: white;
+    
+    padding: 20px;
+}
+
+.item button {
+    background-color: black;
+    color: white;
+    padding: 16px 30px;
+    margin-top: 20px;
+    border: none; 
+    border-radius: 8%; 
+    
+}
